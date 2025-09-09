@@ -6,6 +6,10 @@
   " I'm nobody's puppet, of course. But this was going to be a little fun we had together. A callback to simpler times. I just wanted to play a game, and you were going to be part of it. That submission box was my olive branch, dipped tentatively and at arms length into the trash furnace of creative potential known as 'Online'. "
 </p>
 
+<p align="center">
+  " But I should have known better. People think you can run a story like this? This must be just about the stupidest idea anyone has ever come up with. I'll just have to make up the commands myself from here on out. Seemed to work ok for the other guy.
+</p> 
+
 ___
 
 <!-- panel -->
