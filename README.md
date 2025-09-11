@@ -1,27 +1,23 @@
-# ![](https://komarev.com/ghpvc/?username=Iimbus&color=orange&style=flat&label=Sleeper+Agents)
+![](https://komarev.com/ghpvc/?username=Iimbus&color=lightgrey&style=flat&label=awesome+people)
 
 <!-- dialogue -->
 
 <p align="center">
-  " I'm nobody's puppet, of course. But this was going to be a little fun we had together. A callback to simpler times. I just wanted to play a game, and you were going to be part of it. That submission box was my olive branch, dipped tentatively and at arms length into the trash furnace of creative potential known as 'Online'. "
+  ??got really lazy to remake my readme oke 
 </p>
-
-<p align="center">
-  " But I should have known better. People think you can run a story like this? This must be just about the stupidest idea anyone has ever come up with. I'll just have to make up the commands myself from here on out. Seemed to work ok for the other guy.
-</p> 
 
 ___
 
 <!-- panel -->
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/35280fef-81ca-4077-83ab-4486abf9c800" alt="Centered GIF" />
-</p>
+https://github.com/user-attachments/assets/db468ef8-7eab-4915-b414-17cf5fbe63e6
+
+### [credit to @a1sm1r1n on tiktok](https://www.tiktok.com/@a1sm1r1n?_t=ZS-8zdwttjiqC0&_r=1)
 
 <!-- link -->
 
 <p align="center">
-  <a href="https://blacksilence.atabook.org/">AtaBook</a> 
+  <a href="https://blacksilence.atabook.org/">leave some message here :] (atabook)</a> 
 </p>
 
 <!-- spotify -->
