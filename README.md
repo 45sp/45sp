@@ -1,15 +1,18 @@
-![](https://komarev.com/ghpvc/?username=Iimbus&color=lightgrey&style=flat&label=awesome+people)
+![](https://komarev.com/ghpvc/?username=Iimbus&color=lightgrey&style=flat&label=arcana+slave)
 
 <!-- dialogue -->
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1f375fe6-4c20-44b8-9c07-846decb2b426" />
+
+
 <p align="center">
-  lazy to remake readme right now might want to finish it fast as possible 
+  not in mood to remake readme oke?.. 
 </p>
 
 <!-- link -->
 
 <p align="center">
-  <a href="https://blacksilence.atabook.org/">leave some message here :] 
+  <a href="https://blacksilence.atabook.org/">leave some message here 
     </a> 
 </p>
 
