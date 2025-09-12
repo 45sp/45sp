@@ -3,21 +3,14 @@
 <!-- dialogue -->
 
 <p align="center">
-  ??got really lazy to remake my readme oke 
+  lazy to remake readme right now might want to finish it fast as possible 
 </p>
-
-___
-
-<!-- panel -->
-
-https://github.com/user-attachments/assets/db468ef8-7eab-4915-b414-17cf5fbe63e6
-
-### [credit to @a1sm1r1n on tiktok](https://www.tiktok.com/@a1sm1r1n?_t=ZS-8zdwttjiqC0&_r=1)
 
 <!-- link -->
 
 <p align="center">
-  <a href="https://blacksilence.atabook.org/">leave some message here :] (atabook)</a> 
+  <a href="https://blacksilence.atabook.org/">leave some message here :] 
+    </a> 
 </p>
 
 <!-- spotify -->
