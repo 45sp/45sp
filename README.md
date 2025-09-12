@@ -12,7 +12,7 @@
 <!-- link -->
 
 <p align="center">
-  <a href="https://blacksilence.atabook.org/">leave some message here 
+  <a href="https://kether.atabook.org/">leave some message here 
     </a> 
 </p>
 
