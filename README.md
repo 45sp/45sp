@@ -8,8 +8,9 @@
   <img width="1493" height="738" alt="Untitled213_20250913083850" src="https://github.com/user-attachments/assets/35e2154a-1d88-497a-bdcf-31ac6a8e4623" />
 </div>
 
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀ ⠀![](https://komarev.com/ghpvc/?username=Iimbus&color=339ecc&style=flat&label=arcana+slave)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=cool+people&color=339DCC&style=flat" alt="Profile views"/>
+</p>
 
 <p align="center">
   <a href="https://kether.atabook.org/">GuestBook
