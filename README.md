@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem" />
+  <img width="49" height="50" alt="Untitled223_20250914110956" src="https://github.com/user-attachments/assets/5daa8de9-18cf-476d-b389-22890666888e" />
 </p>
 
 <!-- spotify -->
