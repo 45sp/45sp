@@ -1,13 +1,7 @@
-remaking my github profile once im done with rentry page
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Iimbus&label=awesome+people&color=F3EECD&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Iimbus&label=yo+lunacy&color=F3EECD&style=flat" alt="Profile views"/>
 </p>
 
-> [!NOTE]
->
->  i dont mind getting tagged in some repo or the organisation thing since i dont open github always unless remaking page
->
-> > honorable mention : [read this document before interact](https://docs.google.com/document/d/1FufzyW8OAQeWEjzJEuRBnlB9mAhXNfd1S8X5p0WMMqg/edit?tab=t.0)
+<img width="735" height="441" alt="image" src="https://github.com/user-attachments/assets/09f8b4d2-5473-403b-8bde-f46fa2f4d9f1" />
 
-also [ajax](https://github.com/meidemumsancho) if youre reading this please remember my actual name isnt callisto *(serious obviously)*
+[what](https://docs.google.com/document/d/1FufzyW8OAQeWEjzJEuRBnlB9mAhXNfd1S8X5p0WMMqg/edit?tab=t.0)
