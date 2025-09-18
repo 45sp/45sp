@@ -215,3 +215,8 @@
 ⠀⠀⠀⠀
 
 [lowell](https://libraryofruina.wiki.gg/wiki/Lowell)
+
+> also me btw (im also known for my baby griefer yeah)
+> 
+> ![pony-town-probably lagging-trot-blinking-padded-4x](https://github.com/user-attachments/assets/232cdf36-f26b-4bd2-8a08-db66fa0bfb3c)
+![pony-town-whatever go my apeshit-trot-blinking-padded-ponyplush-4x](https://github.com/user-attachments/assets/68d69138-6b4d-4617-bce4-956a81c9376c)
