@@ -2,6 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Iimbus&label=ARCANA&color=F3EECD&style=flat" alt="Profile views"/>
 </p>
 
-<img width="1914" height="1359" alt="Untitled247_20250919151818" src="https://github.com/user-attachments/assets/37a9844c-b746-470c-8e2c-d6fe34a1da92" />
+<img width="1914" height="1359" alt="Untitled247_20250919154011" src="https://github.com/user-attachments/assets/ae4d73f7-bcb6-4b84-9ac7-9c147a52ad01" />
 
-[what](https://docs.google.com/document/d/1FufzyW8OAQeWEjzJEuRBnlB9mAhXNfd1S8X5p0WMMqg/edit?tab=t.0)
+<!--
+[e](https://docs.google.com/document/d/1FufzyW8OAQeWEjzJEuRBnlB9mAhXNfd1S8X5p0WMMqg/edit?tab=t.0) -->
