@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://takumifujiwara.straw.page/">straw (ongoing)</a>⠀ ✦ ⠀
-  <a href="https://kether.atabook.org">atabook</a>
+  <a href="https://kether.atabook.org">atabook</a>⠀ ✦ ⠀
+  <a href="https://arab.org/">daily click</a>
 </p>
 
 <!--
