@@ -10,3 +10,7 @@
   <a href="https://bryce.atabook.org">atabook</a>⠀ ✦ ⠀
   <a href="https://arab.org/">daily click</a>
 </p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=d3227b&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true)" alt="Spotify Now Playing" />
+</p>
