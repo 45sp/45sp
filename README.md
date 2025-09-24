@@ -6,9 +6,10 @@
   <img width="472" height="426" alt="Untitled250_20250920153141" src="https://github.com/user-attachments/assets/e20d3739-4c85-4fa8-9cbc-83c679ecc56e" />
 </div>
 <p align="center">
-  <a href="https://takumifujiwara.straw.page/">𝖘𝖙𝖗𝖆𝖜</a>⠀ ✦ ⠀
-  <a href="https://bryce.atabook.org">𝖆𝖙𝖆𝖇𝖔𝖔𝚔</a>⠀ ✦ ⠀
-  <a href="https://arab.org/">𝖉𝖆𝖎𝖑𝚢 𝖈𝖑𝖎𝖈𝚔</a>
+  <a href="https://takumifujiwara.straw.page/">𝓢𝖙𝖗𝖆𝖜</a>⠀ ✦ ⠀
+  <a href="https://bryce.atabook.org">𝓐𝖙𝖆𝖇𝖔𝖔𝚔</a>⠀ ✦ ⠀
+  <a href="https://arab.org/">𝓓𝖆𝖎𝖑𝚢 𝖈𝖑𝖎𝖈𝚔</a>⠀ ✦
+  <a href="https://www.patreon.com/c/45sp">𝓟𝖆𝖙𝖗𝖊𝖔𝖓</a>
 </p>
 
 <p align="center">
