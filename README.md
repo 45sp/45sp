@@ -7,6 +7,9 @@
 <div align="center">
   <img width="166" height="160" alt="image" src="https://github.com/user-attachments/assets/11b053b6-d1a1-40e5-8b28-a0a00e0b4eed" />
 </div>
+  <div align="center">
+    IM BROKE OKE
+  </div>
 <p align="center">
   <a href="https://takumifujiwara.straw.page/">sp</a>⠀ ⠀ 
   <a href="https://bryce.atabook.org">ata</a>⠀ ⠀ 
