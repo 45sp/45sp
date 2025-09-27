@@ -1,3 +1,5 @@
+<td>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Iimbus&label=crab&color=d1d1d1&style=plastic" alt="Profile views"/>
 </p>
@@ -15,6 +17,7 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=d1d1d1&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true)" alt="Spotify Now Playing" />
 </p>
 
+<td>
 <!--
 ⠀ ✦ ❤︎
 -->
