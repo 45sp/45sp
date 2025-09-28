@@ -1,18 +1,15 @@
 <td>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Iimbus&label=crab&color=d1d1d1&style=plastic" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Iimbus&label=❤︎&color=d1d1d1&style=plastic" alt="Profile views"/>
 </p>
 
 <div align="center">
   <img width="472" height="426" alt="Untitled258_20250928140106" src="https://github.com/user-attachments/assets/138993dd-d468-467e-97eb-eeb6fc766973" />
 </div>
-  <div align="center">
-    what do i put
-  </div>
 <p align="center">
-  <a href="https://takumifujiwara.straw.page/">sp</a>⠀ ⠀ 
-  <a href="https://bryce.atabook.org">ata</a>⠀ ⠀ 
+  <a href="https://takumifujiwara.straw.page/">sp</a>⠀ ✦⠀ 
+  <a href="https://bryce.atabook.org">ata</a>⠀ ✦⠀ 
   <a href="https://www.roblox.com/users/9404831975/profile">roblox</a>
 </p>
 
