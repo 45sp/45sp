@@ -5,10 +5,10 @@
 </p>
 
 <div align="center">
-  <img width="166" height="160" alt="image" src="https://github.com/user-attachments/assets/11b053b6-d1a1-40e5-8b28-a0a00e0b4eed" />
+  <img width="472" height="426" alt="Untitled258_20250928140106" src="https://github.com/user-attachments/assets/138993dd-d468-467e-97eb-eeb6fc766973" />
 </div>
   <div align="center">
-    IM BROKE OKE
+    what do i put
   </div>
 <p align="center">
   <a href="https://takumifujiwara.straw.page/">sp</a>⠀ ⠀ 
