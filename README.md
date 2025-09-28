@@ -10,8 +10,7 @@
 
 <p align="center">
   <a href="https://takumifujiwara.straw.page/">sp</a>⠀ ⠀ 
-  <a href="https://bryce.atabook.org">ata</a>⠀ ⠀ 
-  <a href="https://www.roblox.com/users/9404831975/profile">roblox</a>
+  <a href="https://bryce.atabook.org">ata</a>
 </p>
 
 <p align="center">
