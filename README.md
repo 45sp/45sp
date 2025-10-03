@@ -1,15 +1,23 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Iimbus&label=nocom+database&color=00FF00&style=plastic" alt="Profile views"/>
+  <img width="498" height="119" alt="Untitled268_20251003232056" src="https://github.com/user-attachments/assets/26574310-c228-49ef-b439-49675bd2e00b" />
 </p>
 
 <p align="center">
-  <a href="https://takumifujiwara.straw.page/">straw</a>⠀⠀
+  <img src="https://komarev.com/ghpvc/?username=Iimbus&label=nocom+database&color=AA2B28&style=plastic" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <a href="https://takumifujiwara.straw.page/">straw</a>⠀ ✦⠀
   <a href="https://bryce.atabook.org">ata</a>
 </p>
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=120422&interchange=false&bar_color=00FF00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true)" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=120422&interchange=false&bar_color=AA2B28&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true)" alt="Spotify Now Playing" />
 </div> 
+
+<p align="center">
+  <img width="498" height="375" alt="Untitled267_20251003231144" src="https://github.com/user-attachments/assets/eae03d5a-5f40-4b59-8ec7-2d14ed06fe71" alt="sonnet" />
+</p>
 
 <!--
 ⠀ ✦ ❤︎
